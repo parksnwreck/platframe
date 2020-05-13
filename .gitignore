@@ -4,6 +4,7 @@
 /dev/
 /prd/
 /prod/
+/portenv/
 
 # deps
 node_modules/
